@@ -1,8 +1,24 @@
-# Git-Learning-Resources
-Here you find all the resources for leaning Git and GitHub.
 # Resources for learning Git and GitHub
 
-> All the resources are free here.
+# What is Git?
+
+<div align="center">
+    <img src="./assets/git_logo.png" alt="git-logo" width="300px" height="300px">
+</div>
+
+**Git** is a *Distributed Version Control System*. If you didn't understand anything then read this [blog](https://medium.com/@mallickdebajit3/deep-dive-into-git-2e190c5404ea).
+
+# What is GitHub?
+
+<div align="center">
+    <img src="./assets/github_logo.png" alt="github-logo" width="300px" height="300px">
+</div>
+
+**GitHub** is a code hosting platform for *version control* and *collaboration*. It lets you and others work together on projects from anywhere.
+
+*Here we provide some resources for learning Git and GitHub from beginner to advanced level*.
+
+> All the resources are free.
 
 ## Video Resources
 * [Git Started with GitHub(Udemy)](https://www.udemy.com/course/git-started-with-github/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-ueX9MWXfgLzfQ4cyW2x..Q&utm_medium=udemyads&utm_source=aff-campaign)
@@ -14,7 +30,6 @@ Here you find all the resources for leaning Git and GitHub.
 * [Git and GitHub - Step by Step for Beginners(Udemy)](https://www.udemy.com/course/git-and-github-step-by-step-for-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-EzSBZYea7VseFenSexByOw&utm_medium=udemyads&utm_source=aff-campaign)
 
 * [Version Control with Git(Crousera)](https://www.coursera.org/learn/version-control-with-git?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-16ETatBacJxlnbaQQg34QQ&siteID=JVFxdTr9V80-16ETatBacJxlnbaQQg34QQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80)
-
 
 ## Text Resources
 * [Deep Dive Into Git](https://medium.com/@mallickdebajit3/deep-dive-into-git-2e190c5404ea)
@@ -32,8 +47,8 @@ Here you find all the resources for leaning Git and GitHub.
 
 * [Git cheat sheet(GitHub Training)](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 
-* [Git Cheat Sheet(Git Tower)](https://www.git-tower.com/blog/git-cheat-sheet/)
+* [Git cheat sheet(Git Tower)](https://www.git-tower.com/blog/git-cheat-sheet/)
 
-* [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
+* [Git cheat sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 
-* [Git Cheat Sheet(UCSD DSE MAS)](https://mas-dse.github.io/DSE200/cheat_sheets/3_version_control/3_1_git_cheat_sheet.pdf)
+* [Git cheat sheet(UCSD DSE MAS)](https://mas-dse.github.io/DSE200/cheat_sheets/3_version_control/3_1_git_cheat_sheet.pdf)
