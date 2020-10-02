@@ -29,7 +29,9 @@
 
 * [Git and GitHub - Step by Step for Beginners(Udemy)](https://www.udemy.com/course/git-and-github-step-by-step-for-beginners/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-EzSBZYea7VseFenSexByOw&utm_medium=udemyads&utm_source=aff-campaign)
 
-* [Version Control with Git(Crousera)](https://www.coursera.org/learn/version-control-with-git?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-16ETatBacJxlnbaQQg34QQ&siteID=JVFxdTr9V80-16ETatBacJxlnbaQQg34QQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80)
+* [Version Control with Git(Coursera)](https://www.coursera.org/learn/version-control-with-git?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-16ETatBacJxlnbaQQg34QQ&siteID=JVFxdTr9V80-16ETatBacJxlnbaQQg34QQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80)
+
+* [Git and GitHub for Beginners - Crash Course(YouTube - freeCodeCamp.org)](https://youtu.be/RGOj5yH7evk)
 
 ## Text Resources
 * [Deep Dive Into Git](https://medium.com/@mallickdebajit3/deep-dive-into-git-2e190c5404ea)
